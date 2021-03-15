@@ -1,7 +1,3 @@
-console.log('This Is From External javascript File')
-
-
-
 const formData=document.querySelector('form')
 const inputData = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
